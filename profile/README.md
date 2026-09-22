@@ -27,7 +27,7 @@
 
 ### Main Project
 
-[KJournal Android](https://github.com/KJournal-Official/kjournal-android )
+[KJournal Android](https://github.com/KJournal-Official/kjournal-android ) · [KJournal iOS](https://github.com/KJournal-Official/kjournal-iOS)
 
 ### Developer
 
@@ -39,6 +39,5 @@
 
 <div align="center">
 
-### iOS Soon
 
 </div>
