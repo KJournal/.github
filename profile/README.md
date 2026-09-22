@@ -39,6 +39,6 @@
 
 <div align="center">
 
-`record · understand · improve`
+`jiwxnbabo`
 
 </div>
