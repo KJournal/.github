@@ -39,6 +39,6 @@
 
 <div align="center">
 
-`jiwxnbabo`
+### iOS Soon
 
 </div>
