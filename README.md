@@ -10,9 +10,9 @@
   
 
 
-[![Repositories](https://img.shields.io/badge/Repositories-18181B?style=flat-square&logo=github&logoColor=white )](https://github.com/KJournal-Official?tab=repositories )
-[![Android](https://img.shields.io/badge/Android-18181B?style=flat-square&logo=android&logoColor=3DDC84 )](https://github.com/KJournal-Official )
-[![Issues](https://img.shields.io/badge/Issues-18181B?style=flat-square&logo=github )](https://github.com/KJournal-Official/kjournal-android/issues )
+[![Repositories](https://img.shields.io/badge/Repositories-18181B?style=flat-square&logo=github&logoColor=white )](https://github.com/KJournal?tab=repositories )
+[![Android](https://img.shields.io/badge/Android-18181B?style=flat-square&logo=android&logoColor=3DDC84 )](https://github.com/KJournal-android )
+[![Issues](https://img.shields.io/badge/Issues-18181B?style=flat-square&logo=github )](https://github.com/KJournal/kjournal-android/issues )
 
 </div>
 
